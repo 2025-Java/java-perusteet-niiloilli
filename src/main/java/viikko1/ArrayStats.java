@@ -25,3 +25,4 @@ public class ArrayStats {
         return largest;
     } 
 }
+// pushaan uudelleen githubiin, että saan kaikki pisteet

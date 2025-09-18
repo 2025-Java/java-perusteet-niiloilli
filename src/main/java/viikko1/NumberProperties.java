@@ -20,3 +20,4 @@ public class NumberProperties {
     }
   }
 } 
+// pushaan uudelleen githubiin, että saan kaikki pisteet

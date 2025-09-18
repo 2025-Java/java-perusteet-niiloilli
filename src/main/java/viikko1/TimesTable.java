@@ -9,3 +9,4 @@ public class TimesTable {
         return result;
     }
 } 
+// pushaan uudelleen githubiin, että saan kaikki pisteet
